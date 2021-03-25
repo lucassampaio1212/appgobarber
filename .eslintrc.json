@@ -31,9 +31,13 @@
       "react-hooks/rules-of-hooks": "error",
       "react/prop-types": "off",
       "react/jsx-props-no-spreading": "off",
+      "react/jsx-one-expression-per-line": "off",
+      "react/jsx-curly-brace-presence": "off",
       "no-unused-vars": "off",
       "no-console": "off",
       "no-explicit-any.md": "off",
+      "import/prefer-default-export": "off",
+      "camelcase": "off",
       "@typescript-eslint/ban-types": "off",
       "react-hooks/exhaustive-deps": "warn",
       "react/jsx-filename-extension": [
